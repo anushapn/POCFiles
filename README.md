@@ -6,7 +6,10 @@ This is the POC created for an interview
 Which has the basic screens to show the skills on Ionic 
 
 
-You can navigate to https://github.com/vinanu123/vp
+You can navigate to https://github.com/anuvinu1524/anushaPOCfiles
 
 
-or you can clone by git clone https://github.com/vinanu123/vp.git
+or you can clone by git clone https://github.com/anuvinu1524/anushaPOCfiles.git
+
+
+and you can download the apk from https://github.com/anuvinu1524/anushaPOCfiles/apk
